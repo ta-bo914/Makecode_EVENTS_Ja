@@ -1,0 +1,29 @@
+{
+    "name": "拡張機能_EVENTS_和訳",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "stable2.1",
+        "tag": "v2.1.24",
+        "commits": "https://github.com/microsoft/pxt-minecraft/commits/9703a955c44a79884bba9ba959c851787cb84793",
+        "target": "2.1.24",
+        "pxt": "12.1.16",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
