@@ -1,5 +1,6 @@
 {
     "name": "拡張機能_EVENTS_和訳",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
